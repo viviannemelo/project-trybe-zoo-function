@@ -1,16 +1,8 @@
-# 🚧 README em construção 🚧
+## Zoo Functions
 
-<!-- Olá, Tryber!
+### Skills
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+- Produção de código legível, conciso e expressivo usando as novas funcionalidades do ES6;
+- Utilização das _Higher Order Functions_ para manipular e criar arrays;
+- Melhor uso das HOFs para cada situação e obter os resultados esperados;
+- Interpretar unit tests a criar soluções a partir deles.
